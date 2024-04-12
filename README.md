@@ -28,7 +28,7 @@ To run this CLI chatbot, you need:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/Gravtas-J/Anthrustic.git
    cd cli_chatbot
    ```
 
